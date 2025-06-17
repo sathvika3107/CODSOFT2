@@ -1,0 +1,29 @@
+# Query: raj
+# ContextLines: 1
+
+6 results - 1 file
+
+protofolio.html:
+   17              <a href="" class="logo">
+   18:                 <h2>Mankena<span>Sathvika</span></h2>
+   19              </a>
+
+   34  
+   35:                     <p class="name"> I am <span>Sathvika</span></p>
+   36                  </h1>
+
+   66                  <h5>FULL NAME</h5>
+   67:                 <p>Mankena Sathvika</p>
+   68  
+
+   72                  <h5>EMAIL</h5>
+   73:                 <p>Sathvikareddie3107@gmail.com </p>
+   74  
+
+   78                  <h5>Linkedin</h5>
+   79:                 <p>www.linkedin.com/in/sathvika-reddy-24242033</p>
+   80  
+
+  215      <footer>
+  216:         &copy;Mankena Sathvika
+  217  
